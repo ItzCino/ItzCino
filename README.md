@@ -5,8 +5,8 @@ Currently looking for roles in back-end or hardware development.
 
 ## 🧠 Technical Skills:
 <div display="flex">
-<img alt="Static Badge" src="https://img.shields.io/badge/Python-black?style=flat&logo=Python&logoColor=white&labelColor=black&color=black" alt="Python">
 <img alt="Static Badge" src="https://img.shields.io/badge/Java-black?logo=openjdk">
+<img alt="Static Badge" src="https://img.shields.io/badge/Python-black?style=flat&logo=Python&logoColor=white&labelColor=black&color=black" alt="Python">
 <img alt="Static Badge" src="https://img.shields.io/badge/-black?logo=C">
 <img alt="Static Badge" src="https://img.shields.io/badge/HTML-brightgreen?logo=html5&logoColor=white&labelColor=black&color=black">
 <img alt="Static Badge" src="https://img.shields.io/badge/MATLAB-brightgreen?logoColor=white&labelColor=black&color=black">
