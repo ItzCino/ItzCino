@@ -1,4 +1,4 @@
-##   Hi there 👋
+##   Hi there 👋 
 Loves all things tech!
 Loves experiementing with new technologies!
 Currently looking for roles in back-end or hardware development.
