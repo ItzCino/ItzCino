@@ -17,7 +17,7 @@ Currently looking for roles in back-end or hardware development.
 - CAD modelling
 - 3D printing
 - Soldering
-- Simple circuit analysis and simulation
+- Circuit analysis and simulation
 
 
 ## 🛠️ I am currently working on:
